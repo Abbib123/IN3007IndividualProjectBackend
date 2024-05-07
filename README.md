@@ -14,6 +14,13 @@ To run this application do the following :
 4.Then open up in desired IDE
 5.Finally  run the app using the command : docker compose up
 
+URL to access this product:http://0.0.0.0:8000
+
+File structure:
+400/Documents
+Model
+Schema
+
 References for this project:
 1.fastapi.tiangolo.com. (n.d.). SQL (Relational) Databases - FastAPI. [online] Available at: https://fastapi.tiangolo.com/tutorial/sql-databases/[Accessed 1 May 2024].
 
@@ -25,3 +32,4 @@ https://www.udemy.com/course/fastapi-the-complete-course/learn/lecture/39925428#
 4.www.youtube.com. (n.d.). How to connect PyCharm with a Docker container? [online] Available at: https://www.youtube.com/watch?v=Iam-VLR6tAQ [Accessed 2 May 2024].
 
 5.sqlmodel.tiangolo.com. (n.d.). Multiple Models with FastAPI - SQLModel. [online] Available at: https://sqlmodel.tiangolo.com/tutorial/fastapi/multiple-models/ [Accessed 1 May 2024].
+
