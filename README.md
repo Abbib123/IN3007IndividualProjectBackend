@@ -2,6 +2,8 @@ IN3007 Individual project
 
 ONEDRIVE link: https://cityuni-my.sharepoint.com/:f:/g/personal/abbib_akram_city_ac_uk/El5qEy7yUCNMhbNEa6tdTpUBWPguGN57IYBmZN8BpzBStQ?e=dWzinD
 
+Kaggle dataset = https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+
 This is a web application which helps medical professionals not only manage patient information but also analyse CT scan images of patients lungs in order to deduce whether they are normal or abnormal,saving the doctors the stress,time and hassle of analysing images manually.
 
 The technologies used to implement this softare product are as follows:
