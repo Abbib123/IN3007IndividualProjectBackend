@@ -27,7 +27,7 @@ To run this element do the following:
 
 (If the URL doesnt open automatically,copy and paste the url produced in the terminal into the search area of a browser.
 
-In order to run the backend element of this project implment the following:
+In order to run the backend element (main program) of this project implment the following:
 
 1.brew install python@3.11
 2.python3.11 -m venv venv 
@@ -91,7 +91,7 @@ Run the model via the following:
 
 
 File structure:
-400/Documents
+400 v2 /Documents
 Model
 Schema
 
