@@ -117,4 +117,15 @@ https://www.udemy.com/course/fastapi-the-complete-course/learn/lecture/39925428#
 ‌
 11.Stack Overflow. (n.d.). Why am I getting a permission denied error for schema public on pgAdmin 4? [online] Available at: https://stackoverflow.com/questions/67276391/why-am-i-getting-a-permission-denied-error-for-schema-public-on-pgadmin-4 [Accessed 16 Jul. 2024].
 ‌
+12.Nileg Production (2022). Streamlit Introduction | Complete Streamlit Python Course | Streamlit Tutorial 1. [online] YouTube. Available at: https://www.youtube.com/watch?v=RjiqbTLW9_E&list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW [Accessed 14 Jul. 2024].
+#‌
 
+13.Mısra Turp (2022). Streamlit Elements You Should Know About in 2023. [online] YouTube. Available at: https://www.youtube.com/watch?v=_Um12_OlGgw [Accessed 14 Jul. 2024].
+#‌
+
+14.Streamlit (n.d.). Streamlit Docs. [online] docs.streamlit.io. Available at: https://docs.streamlit.io/.
+#‌
+15.#1.codebasics (2021). Deep learning project end to end | Potato Disease Classification - 3 : Model Building. [online] YouTube. Available at: https://www.youtube.com/watch?v=ZN6P_GEJ7lk&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&index=3.
+‌
+16.kaggle.com. (n.d.). Chest Cancer CT-Scan Detector. [online] Available at: https://www.kaggle.com/code/jameshuangcoding/chest-cancer-ct-scan-detector.
+‌
