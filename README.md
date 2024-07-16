@@ -132,4 +132,7 @@ https://www.udemy.com/course/fastapi-the-complete-course/learn/lecture/39925428#
 15.#1.codebasics (2021). Deep learning project end to end | Potato Disease Classification - 3 : Model Building. [online] YouTube. Available at: https://www.youtube.com/watch?v=ZN6P_GEJ7lk&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD&index=3.
 ‌
 16.kaggle.com. (n.d.). Chest Cancer CT-Scan Detector. [online] Available at: https://www.kaggle.com/code/jameshuangcoding/chest-cancer-ct-scan-detector.
+
+17.Reference : Import statements were sourced from a coursework I contributed to for the module IN3062 Introduction to AI,Title:IN3062 Introduction to AI technical report,
+#Contributors:Bismillah.B,Brewer.E and Akram.A,Date of publishing:01/2021,Date last accessed:01/06/2024
 ‌
