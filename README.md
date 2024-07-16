@@ -1,6 +1,6 @@
 IN3007 Individual project 
 
-ONEDRIVE link: https://cityuni-my.sharepoint.com/:f:/g/personal/abbib_akram_city_ac_uk/El5qEy7yUCNMhbNEa6tdTpUBWPguGN57IYBmZN8BpzBStQ?e=dWzinD
+ONEDRIVE link: https://cityuni-my.sharepoint.com/:f:/g/personal/abbib_akram_city_ac_uk/El5qEy7yUCNMhbNEa6tdTpUBpEVHxiUcE5qlI9ZJWYQZlg?e=erLmlX
 
 Kaggle dataset = https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
